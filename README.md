@@ -7,12 +7,12 @@ Welcome.
 ##  Languages & Tools
 
 - **Languages:**  
-  ![Languages](https://img.shields.io/github/languages/top/)  
+  ![Languages](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/32px-C_Programming_Language.svg.png?20201031132917)  
   *Primary languages:* C, C++, C#, JavaScript.  
   *Familiar with:* Lua, SQL, Markdown
 
 - **Tools & Frameworks:**  
-  ![Frameworks](https://simpleicons.org/icons/dotnet.svg)  
+  ![Frameworks](https://learn.microsoft.com/media/logos/logo_net.svg)  
   Visual Studio, Visual Studio Code, IntelliJ IDEA, ImGui, and .NET.
 
 ---
