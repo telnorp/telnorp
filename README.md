@@ -12,7 +12,6 @@ Welcome.
   *Familiar with:* Lua, SQL, Markdown
 
 - **Tools & Frameworks:**  
-  ![Frameworks](https://learn.microsoft.com/media/logos/logo_net.svg)  
   Visual Studio, Visual Studio Code, IntelliJ IDEA, ImGui, and .NET.
 
 ---
