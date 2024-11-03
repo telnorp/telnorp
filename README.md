@@ -39,6 +39,8 @@ Welcome.
 ## Projects & Contributions
 
 Highlights from my projects and contributions:
+- **[MIDI Volume Controller](https://github.com/telnorp/midivolcontrol):** MIDI Volume control for Windows systems
+
 - **[Janne Clicker](https://github.com/telnorp/games/tree/main/clicker):** Clicker game i am working on
 - Janne Clicker has functionality such as a simple anticheat(W.I.P), xp & leveling system, and a simple yet aesthetic design.
 
